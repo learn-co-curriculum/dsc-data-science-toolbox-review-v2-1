@@ -3,7 +3,7 @@
 
 ## Introduction 
 
-In this lesson, you'll get a chance to review some of the many skills you've learned to date! You've developed a range of skills from general programming skills and OOP to databases, data analysis, and statistics! Hopefully, you're excited to pull all of these pieces together and conduct a full Data Science investigation from data extraction to modeling! With that, here's a quick review of some of the most pertinent skills you'll be using along the way!
+In this lesson, you'll get a chance to review some of the many skills you've learned to date! You've developed a range of skills from general programming skills to databases, data analysis, and statistics! Hopefully, you're excited to pull all of these pieces together and conduct a full Data Science investigation from data extraction to modeling! With that, here's a quick review of some of the most pertinent skills you'll be using along the way!
 
 ## Objectives
 
